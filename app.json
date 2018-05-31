@@ -1,0 +1,24 @@
+{
+  "id": "3663ac98-3633-4548-8405-5eeba638f744",
+  "name": "NaviLube",
+  "showMyCode": true,
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 99000,
+    "to": 99999
+  }
+}
